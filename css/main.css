@@ -58,3 +58,64 @@
   .benefittxt {
     text-align: center;
   }
+  .benefittxts {
+    text-align: center;
+    padding-bottom: 30px;
+  }
+  .teatxt {
+    position: relative;
+    text-align: left;
+    left: 300px;
+    top: -200px;
+  }
+  img .teas {
+    position: relative;
+  }
+  .teas{
+    margin: 15px;
+    margin-left: 450px;
+  }
+  .tea{
+    margin: 15px;
+    margin-left: 450px;
+    font-size: 20px;
+    color: #1abc9c;
+  }
+  .oiltxt {
+    position: relative;
+    text-align: left;
+    left: 300px;
+    top: -200px;
+  }
+  img .oil {
+    position: relative;
+  }
+  .oil{
+    margin: 15px;
+    margin-left: 450px;
+  }
+  .oils{
+    margin: 15px;
+    margin-left: 450px;
+    font-size: 20px;
+    color: #1abc9c;
+  }
+  .supply {
+    position: relative;
+    text-align: left;
+    left: 300px;
+    top: -200px;
+  }
+  img .supplements {
+    position: relative;
+  }
+  .supplement{
+    margin: 15px;
+    margin-left: 450px;
+  }
+  .supplements{
+    margin: 15px;
+    margin-left: 450px;
+    font-size: 20px;
+    color: #1abc9c;
+  }
